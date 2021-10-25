@@ -2,4 +2,4 @@
 
 ## FOR SOME UNFORTUNATE REASON, WE ARE UNABLE TO PUT THE SOURCE CODE DIRECTLY TO GITHUB
 
-## PLEASE GO TO OUR MIRROR WEBSITE TO DOWNLOAD THE SRC: [here](https://avacadox21.github.io/DroNerds/dronerds-win32-x64.zip)
+## PLEASE GO TO OUR MIRROR WEBSITE TO DOWNLOAD THE SRC: [here](https://drive.google.com/file/d/1X1PxVs6mlVbSHkorpXOxawFmMP-8tzz1/view?usp=sharing)
